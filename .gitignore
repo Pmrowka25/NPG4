@@ -1,1 +1,8 @@
 plik1.txt
+
+log/
+build/
+
+*.pdf
+*.tmp
+*.log
